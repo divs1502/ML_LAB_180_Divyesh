@@ -1,0 +1,11 @@
+1. The dataset used in this practical is downloaded from kaggle.
+
+2. The used dataset contains 336 instances.
+
+3. The used dataset contains 3 attributes with two numerical values i.e.,  x and y.
+
+4. The used dataset used has attribute color represented by three number i.e, 0,1 and 2 which represents class.
+
+5. K-Means Clustering is an Unsupervised Learning algorithm, which groups the unlabeled dataset into different clusters.
+
+6. It is a centroid-based algorithm, where each cluster is associated with a centroid. The main aim of this algorithm is to minimize the sum of distances between the data point and their corresponding clusters.

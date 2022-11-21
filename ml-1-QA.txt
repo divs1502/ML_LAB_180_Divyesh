@@ -1,0 +1,5 @@
+1. The dataset used in practical is downloaded form kaggle.
+2. The dataset contained total 201 instances.
+3. The dataset has 11 attributes.
+4. Mean of salary_in_usd is 98158.587065.
+5. Standard deviation of salary_in_usd is 78381.004801.

@@ -1,0 +1,12 @@
+1. A confusion matrix is a summary of prediction results on a classification problem.
+2.The number of correct and incorrect predictions are summarized with count values and broken down by each class. This is the key to the confusion matrix.
+3. Given an array or list of expected values and a list of predictions from your machine learning model, the confusion_matrix() function will calculate a confusion matrix and return the result as an array.
+4. A Classification report is used to measure the quality of predictions from a classification algorithm. How many predictions are True and how many are False. More specifically, True Positives, False Positives, True negatives and False Negatives are used to predict the metrics of a classification report as shown below.
+
+5. Precision is defined as the ratio of true positives to the sum of true and false positives.
+
+6. Recall is defined as the ratio of true positives to the sum of true positives and false negatives.
+
+7. The F1 is the weighted harmonic mean of precision and recall. The closer the value of the F1 score is to 1.0, the better the expected performance of the model is.
+
+8. Support is the number of actual occurrences of the class in the dataset. It doesn’t vary between models, it just diagnoses the performance evaluation process.
